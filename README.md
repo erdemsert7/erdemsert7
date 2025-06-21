@@ -1,7 +1,8 @@
 # Hello 👋, I'm Erdem Sert
 ### Full Stack Developer
 
-Merhaba! Ben Erdem Sert, Full Stack geliştirici olarak Netaş Telekomünikasyon A.Ş.'de yaklaşık 3 yıl deneyim kazandım. Visium Farm projesinde React.js, TypeScript ve Spring Boot ile gerçek cihazlar üzerinde manuel ve otomasyon testlerini yürütebildikleri platformun geliştirilmesinde aktif rol oynadım. Ayrıca IoTwin gibi IoT projelerinde React, React Native, Go ve Apache Kafka ile çalıştım. Açık kaynaklı projelere katkıda bulunmayı ve yeni teknolojilerle öğrenmeye devam etmeyi seviyorum.
+Hello! I am Erdem Sert, I gained about 3 years of experience as a Full Stack developer at Netaş Telekomünikasyon A.Ş. I played an active role in the development of the platform where they can run manual and automation tests on real devices with React.js, TypeScript and Spring Boot in the Visium Farm project. I also worked with React, React Native, Go and Apache Kafka in IoT projects such as IoTwin. I love contributing to open source projects and continuing to learn with new technologies.
+
 
 ## Contact Me
 <p><a href="https://www.linkedin.com/in/erdemsert/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> </p>
